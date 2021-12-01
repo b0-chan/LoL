@@ -1,6 +1,6 @@
-# LoL
+# LoL - List of Lists
 
-LoL is a list list that came to my mind when I was looking for a universal list app, and when I tried a few of the best ones on the play market, **I said LoL.**
+LoL is a idea of app that came to my mind when I was looking for a universal list app, and when I tried a few of the best ones on the play market, **I said LoL.**
 
 ## Why?
 Because these apps offer me strange features, such as:
